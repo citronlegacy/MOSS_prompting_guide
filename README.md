@@ -39,7 +39,7 @@ Positions should be relative to the frame ("on the left of the frame"), not to a
 
 ## Scenarios
 
-All six use the same cast section above, with only the action section changed. The original test runs used seed 31337, 30 steps, CFG 3, 1216×832, and the workflow's quality prefix (`masterpiece, best quality, amazing quality, absurdres,`). Each scenario is one seed, so expect small run-to-run differences.
+All six use the same cast section above, with only the action section changed. Seed and other generation settings remain the same for all scenarios.
 
 ### 1. Paper fan strike
 
